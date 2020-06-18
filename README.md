@@ -3,5 +3,5 @@
 #### Requires Python 3.6.0 or newer to run
 
 
-###### *Made by QQBQBQL"
+###### *Made by QQBQBQL*
 
