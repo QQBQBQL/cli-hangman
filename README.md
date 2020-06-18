@@ -4,4 +4,5 @@
 * (Source) [List of nouns](https://www.talkenglish.com/vocabulary/top-1500-nouns.aspx)
 
 ###### *Made by QQBQBQL*
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
