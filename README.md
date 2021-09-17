@@ -3,5 +3,7 @@
 * Requires Python v3.6.0 or newer to run
 * (Source) [List of nouns](https://www.talkenglish.com/vocabulary/top-1500-nouns.aspx)
 
+Created by following a tutorial.
+
 ###### *Maid with QQBQBQL*
 
